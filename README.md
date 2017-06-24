@@ -1,4 +1,4 @@
-# XenForo-EmailQueue
+# XenForo2-EmailQueue
 
 # Queued Email
 
