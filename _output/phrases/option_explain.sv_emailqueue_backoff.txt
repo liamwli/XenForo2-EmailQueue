@@ -1,0 +1,3 @@
+The number of minutes to wait between after an attempt errors.
+Increment size is effectively gated to the cron job run time which, by default, is every 10 minutes.
+Set to zero to disable, and attempt to try again as soon as possible

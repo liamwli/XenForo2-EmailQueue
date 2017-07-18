@@ -1,0 +1,74 @@
+{
+    "option.sv_emailqueue_backoff.txt": {
+        "global_cache": false,
+        "version_id": 2000070,
+        "version_string": "2.0.0",
+        "hash": "7a328cedf3b6a04a990078db464c51ce"
+    },
+    "option.sv_emailqueue_batchsize.txt": {
+        "global_cache": false,
+        "version_id": 2000070,
+        "version_string": "2.0.0",
+        "hash": "1300769d8d72fc8218b40772f1c25efc"
+    },
+    "option.sv_emailqueue_exclude.txt": {
+        "global_cache": false,
+        "version_id": 2000070,
+        "version_string": "2.0.0",
+        "hash": "a950a3160162be53f4d351c7ae74d996"
+    },
+    "option.sv_emailqueue_failures_to_error.txt": {
+        "global_cache": false,
+        "version_id": 2000070,
+        "version_string": "2.0.0",
+        "hash": "69230aa9cbe31b4afb8c2a99e8d9689c"
+    },
+    "option.sv_emailqueue_failures_to_warn.txt": {
+        "global_cache": false,
+        "version_id": 2000070,
+        "version_string": "2.0.0",
+        "hash": "d34464398902721be1ef780edd2d7f94"
+    },
+    "option.sv_emailqueue_force.txt": {
+        "global_cache": false,
+        "version_id": 2000070,
+        "version_string": "2.0.0",
+        "hash": "4c83fa29b616d19ad1073675fd35df5d"
+    },
+    "option_explain.sv_emailqueue_backoff.txt": {
+        "global_cache": false,
+        "version_id": 2000070,
+        "version_string": "2.0.0",
+        "hash": "ac19bfa82dbfeea7ebf0028b8d112d23"
+    },
+    "option_explain.sv_emailqueue_batchsize.txt": {
+        "global_cache": false,
+        "version_id": 2000070,
+        "version_string": "2.0.0",
+        "hash": "6b54352dbe01af00a60a59d91a9caf74"
+    },
+    "option_explain.sv_emailqueue_exclude.txt": {
+        "global_cache": false,
+        "version_id": 2000070,
+        "version_string": "2.0.0",
+        "hash": "da4077670bb425e00cbdfbc0378459e6"
+    },
+    "option_explain.sv_emailqueue_failures_to_error.txt": {
+        "global_cache": false,
+        "version_id": 2000070,
+        "version_string": "2.0.0",
+        "hash": "289b9857fbc821359fb13d3dce7993da"
+    },
+    "option_explain.sv_emailqueue_failures_to_warn.txt": {
+        "global_cache": false,
+        "version_id": 2000070,
+        "version_string": "2.0.0",
+        "hash": "97687d4d722a18ddcece99497f13081e"
+    },
+    "option_explain.sv_emailqueue_force.txt": {
+        "global_cache": false,
+        "version_id": 2000070,
+        "version_string": "2.0.0",
+        "hash": "cf1f53c63d5c636af047f91463656d0d"
+    }
+}

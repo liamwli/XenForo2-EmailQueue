@@ -1,0 +1,20 @@
+{
+    "sv_emailqueue_backoff.json": {
+        "hash": "d7756995f1e23255819db1318a91b2cd"
+    },
+    "sv_emailqueue_batchsize.json": {
+        "hash": "67d8378f401aeb828bf9428c70bc076d"
+    },
+    "sv_emailqueue_exclude.json": {
+        "hash": "c43dd0de2af6df032b1e46b8398d8b32"
+    },
+    "sv_emailqueue_failures_to_error.json": {
+        "hash": "ca22fc76c6769281279fd0354f62a570"
+    },
+    "sv_emailqueue_failures_to_warn.json": {
+        "hash": "50c10e3321af0228e2ae3493eed1f92b"
+    },
+    "sv_emailqueue_force.json": {
+        "hash": "fb58982d53647399aee7ceac9e8f2553"
+    }
+}

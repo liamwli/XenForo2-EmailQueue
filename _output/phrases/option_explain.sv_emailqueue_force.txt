@@ -1,0 +1,1 @@
+Forces all email to be queued, if disabled only failed email is queued for resending.

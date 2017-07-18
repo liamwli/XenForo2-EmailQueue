@@ -1,0 +1,14 @@
+{
+    "edit_format": "callback",
+    "edit_format_params": "\\SV\\EmailQueue\\Option\\EmailTemplates::renderOption",
+    "data_type": "array",
+    "sub_options": [
+        "*"
+    ],
+    "validation_class": "\\SV\\EmailQueue\\Option\\EmailTemplates",
+    "validation_method": "validateOption",
+    "default_value": "{\"two_step_login_backup\":1,\"two_step_login_email\":1,\"user_email_confirmation\":1,\"user_lost_password\":1,\"user_lost_password_reset\":1}",
+    "relations": {
+        "emailOptions": 920
+    }
+}

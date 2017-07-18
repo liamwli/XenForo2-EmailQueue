@@ -1,0 +1,22 @@
+<xf:formrow rowtype="input"
+            label="{$option.title}"
+            hint="{$editHtml}"
+            explain="{$explainHtml}"
+            html="{$listedHtml}">
+
+    <ul class="listPlain inputGroup-container">
+        <xf:checkbox name="{$inputName}[existing_templates][]" value="{$option.option_value}">
+            <xf:foreach loop="$selectedTemplates" value="$template">
+                <xf:option value="{$template.title}">{$template.title}</xf:option>
+            </xf:foreach>
+        </xf:checkbox>
+
+        <li class="inputGroup" data-xf-init="field-adder">
+            <xf:select name="{$inputName}[new_templates][]">
+                <xf:foreach loop="$additionalTemplates" value="$template">
+                    <xf:option value="{$template.title}">{$template.title}</xf:option>
+                </xf:foreach>
+            </xf:select>
+        </li>
+    </ul>
+</xf:formrow>
